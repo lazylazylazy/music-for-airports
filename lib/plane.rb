@@ -13,7 +13,6 @@ def land
 end
 
 
-
 def flying
 	@flying = true
 end
